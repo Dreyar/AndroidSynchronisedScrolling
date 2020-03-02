@@ -7,7 +7,7 @@ Android synchronized recyclerview crash
         at android.view.ViewGroup.offsetRectBetweenParentAndChild(ViewGroup.java:6143)
         at android.view.ViewGroup.offsetDescendantRectToMyCoords(ViewGroup.java:6072)
   
-Steps to reproduce (using keyboard arrow keys):
+### Steps to reproduce (using keyboard arrow keys):
 * press right till the end 
 * press down till the end (or until a crash occures)
 
